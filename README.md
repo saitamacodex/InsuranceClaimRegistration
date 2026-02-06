@@ -12,12 +12,12 @@ There are 3 actors :
 <hr>
 
 ### 🛠 Tech Stack
-1. HTML
-2. Bootstrap
-3. Javascript
-4. JSP
-5. Servlet
-6. JDBC
+- 🌐 **HTML**
+- 🎨 **Bootstrap**
+- ⚙️ **JavaScript**
+- 📄 **JSP**
+- 🔌 **Servlet**
+- 🗄️ **JDBC**
 
 <hr>
 
